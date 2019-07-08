@@ -1,6 +1,6 @@
 
 # Proxy Server
-![alt text](https://raw.githubusercontent.com/w0rmkit/backdoor-with-python/branch/path/to/pwned.png)
+![alt text](https://github.com/w0rmkit/backdoor-with-python/blob/master/pwned.png)
 
 ## Installation
 
